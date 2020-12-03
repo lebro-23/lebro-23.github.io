@@ -28,7 +28,7 @@ h1 h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h1 h2 h3 {
-    font-size: 3em;
+    font-size: 1.8em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 ul li {
@@ -36,7 +36,7 @@ ul li {
     line-height: 1.4em;
     color: #333;
 }
-.SkillsList li {
+.SkillsList ul li {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
