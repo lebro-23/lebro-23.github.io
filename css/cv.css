@@ -31,6 +31,11 @@ h3 {
     font-size: 1.8em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h2 li {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
 h3 li {
     font-size: 1.5em;
     line-height: 1.4em;
